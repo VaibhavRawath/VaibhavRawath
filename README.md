@@ -69,7 +69,7 @@ AI chat assistant (floating orb) + Google Sign-In/Sign-Out + Jetpack Compose UI
 
 ## 🔥 Streak Mode
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=VaibhavRawath&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VaibhavRawath&theme=github-dark&hide_border=true" />
 </p>
 
 ---
