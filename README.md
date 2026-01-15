@@ -11,8 +11,20 @@
 </p>
 
 <p align="center">
+  <img height="36" src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,git,github,figma" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2300&pause=500&center=true&vCenter=true&width=650&lines=Building+modern+Android+apps+with+clean+UI+%F0%9F%94%A5;Kotlin+%2B+Compose+%2B+Firebase+Auth;AI+Chat+%7C+Smart+UX+%7C+App+Automation;Always+shipping+something+cool+%E2%9C%85" />
 </p>
+
+---
+
+## ⚡ Quick Facts
+- 💼 Freelancing on **Upwork**
+- 🔥 Love building **dark UI** + smooth UX
+- 🤖 Working on **AI features inside mobile apps**
+- 🧩 Favorite stack: **Kotlin + Compose + Firebase**
 
 ---
 
@@ -20,6 +32,10 @@
 ### 🔥 Phoenix — AI Course App (Android)
 AI chat assistant (floating orb) + Google Sign-In/Sign-Out + Jetpack Compose UI  
 ➡️ https://github.com/VaibhavRawath/phoenix-ai-course-app
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VaibhavRawath&repo=phoenix-ai-course-app&hide_border=true" />
+</p>
 
 ---
 
@@ -49,12 +65,18 @@ AI chat assistant (floating orb) + Google Sign-In/Sign-Out + Jetpack Compose UI
 - **AI Face Enhancer** / AI image tools (experiments + integrations)
 - More AI features for mobile apps (clean UX, fast responses, better prompts)
 
+---
+
+## 🔥 Streak Mode
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=VaibhavRawath&theme=dark&hide_border=true" />
+</p>
 
 ---
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/VaibhavRawath/VaibhavRawath/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/VaibhavRawath/VaibhavRawath/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
