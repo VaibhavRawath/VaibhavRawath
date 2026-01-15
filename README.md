@@ -23,7 +23,7 @@
 ## ⚡ Quick Facts
 - 💼 Freelancing on **Upwork**
 - 🔥 Love building **dark UI** + smooth UX
-- 🤖 Working on **AI features inside mobile apps**
+- 🤖 Building **AI inside apps** (assistants, suggestions, automation)
 - 🧩 Favorite stack: **Kotlin + Compose + Firebase**
 
 ---
@@ -32,10 +32,6 @@
 ### 🔥 Phoenix — AI Course App (Android)
 AI chat assistant (floating orb) + Google Sign-In/Sign-Out + Jetpack Compose UI  
 ➡️ https://github.com/VaibhavRawath/phoenix-ai-course-app
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VaibhavRawath&repo=phoenix-ai-course-app&hide_border=true" />
-</p>
 
 ---
 
@@ -67,9 +63,12 @@ AI chat assistant (floating orb) + Google Sign-In/Sign-Out + Jetpack Compose UI
 
 ---
 
-## 🔥 Streak Mode
+## 📅 Live Activity (auto-updating)
+> Your real green contribution squares are on your GitHub profile.  
+> This graph below updates automatically based on your actual contributions.
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VaibhavRawath&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VaibhavRawath&theme=github-compact&hide_border=true" />
 </p>
 
 ---
