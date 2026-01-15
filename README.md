@@ -64,8 +64,7 @@ AI chat assistant (floating orb) + Google Sign-In/Sign-Out + Jetpack Compose UI
 ---
 
 ## 📅 Live Activity (auto-updating)
-> Your real green contribution squares are on your GitHub profile.  
-> This graph below updates automatically based on your actual contributions.
+> This graph below updates automatically based on my actual contributions.
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VaibhavRawath&theme=github-compact&hide_border=true" />
