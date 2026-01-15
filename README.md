@@ -49,7 +49,6 @@ AI chat assistant (floating orb) + Google Sign-In/Sign-Out + Jetpack Compose UI
 - **AI Face Enhancer** / AI image tools (experiments + integrations)
 - More AI features for mobile apps (clean UX, fast responses, better prompts)
 
----
 
 ---
 
