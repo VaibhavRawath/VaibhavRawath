@@ -15,7 +15,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2300&pause=500&center=true&vCenter=true&width=650&lines=Building+modern+Android+apps+with+clean+UI+%F0%9F%94%A5;Kotlin+%2B+Compose+%2B+Firebase+Auth;AI+Chat+%7C+Smart+UX+%7C+App+Automation;Always+shipping+something+cool+%E2%9C%85" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2300&pause=500&center=true&vCenter=true&width=750&lines=Building+premium+Android+apps+%F0%9F%94%A5;Kotlin+%2B+Compose+%2B+Firebase+Auth;AI+Chat+%7C+Smart+UX+%7C+App+Automation;Dark+UI+enjoyer+%F0%9F%8C%99+Smooth+animations+%E2%9C%A8" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Mobile%20Apps-8b5cf6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stack-Kotlin%20%7C%20Compose%20%7C%20Firebase-22d3ee?style=for-the-badge" />
 </p>
 
 ---
@@ -32,6 +37,18 @@
 ### 🔥 Phoenix — AI Course App (Android)
 AI chat assistant (floating orb) + Google Sign-In/Sign-Out + Jetpack Compose UI  
 ➡️ https://github.com/VaibhavRawath/phoenix-ai-course-app
+
+---
+
+## 🖼️ Phoenix Showcase (Real Screens)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VaibhavRawath/phoenix-ai-course-app/main/screens/home.jpg" width="200" />
+  <img src="https://raw.githubusercontent.com/VaibhavRawath/phoenix-ai-course-app/main/screens/chat.jpg" width="200" />
+  <img src="https://raw.githubusercontent.com/VaibhavRawath/phoenix-ai-course-app/main/screens/new-chat.jpg" width="200" />
+  <img src="https://raw.githubusercontent.com/VaibhavRawath/phoenix-ai-course-app/main/screens/settings.jpg" width="200" />
+</p>
+
+> If those image paths don’t match your repo, replace with your exact filenames in `phoenix-ai-course-app/screens/`.
 
 ---
 
@@ -63,8 +80,17 @@ AI chat assistant (floating orb) + Google Sign-In/Sign-Out + Jetpack Compose UI
 
 ---
 
+## 🧪 Stuff I Can Build For You (Upwork-ready)
+- ✅ Android apps (Kotlin / Jetpack Compose)
+- ✅ Google Sign-In / Firebase Auth flows
+- ✅ AI Chat inside apps (UI + integration)
+- ✅ Clean UI redesigns + animations polish
+- ✅ APIs + Retrofit + local storage (Room)
+
+---
+
 ## 📅 Live Activity (auto-updating)
-> This graph below updates automatically based on my actual contributions.
+> Updates automatically based on my real contributions.
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VaibhavRawath&theme=github-compact&hide_border=true" />
@@ -84,4 +110,3 @@ AI chat assistant (floating orb) + Google Sign-In/Sign-Out + Jetpack Compose UI
 </p>
 
 <p align="center"><i>Last updated: <!--LAST_UPDATED--></i></p>
-
