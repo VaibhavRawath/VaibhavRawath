@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Vaibhav Rawath 👋</h1>
+<p align="center">
+  Android Developer • Kotlin • Jetpack Compose • Firebase
+</p>
 
-<!--
-**VaibhavRawath/VaibhavRawath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="YOUR_UPWORK_LINK">Upwork</a> •
+  <a href="YOUR_LINKEDIN_LINK">LinkedIn</a> •
+  <a href="mailto:YOUR_EMAIL">Email</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Project
+**Phoenix — AI Course App (Android)**  
+AI chat orb + Google Sign-In + Compose UI  
+👉 https://github.com/VaibhavRawath/phoenix-ai-course-app
+
+---
+
+### 🧰 Tech
+Kotlin • Jetpack Compose • MVVM • Firebase Auth • Retrofit • Room
+
+---
+
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=VaibhavRawath&show_icons=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavRawath&layout=compact)
