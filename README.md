@@ -51,11 +51,6 @@ AI chat assistant (floating orb) + Google Sign-In/Sign-Out + Jetpack Compose UI
 
 ---
 
-## 🏆 Flex Corner
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VaibhavRawath&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
-
 ---
 
 ## 🐍 Contribution Snake
