@@ -107,4 +107,4 @@ AI chat assistant (floating orb) + Google Sign-In/Sign-Out + Jetpack Compose UI
   <i>If you need an Android app (Compose/Kotlin) or AI integrated into an app — hit me on Upwork.</i>
 </p>
 
-<p align="center"><i>Last updated: <!--LAST_UPDATED--></i></p>
+<p align="center"><i>Last updated: 16 Jan 2026 • 07:24 AM IST</i></p>
