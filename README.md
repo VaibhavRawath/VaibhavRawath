@@ -40,14 +40,6 @@ AI chat assistant (floating orb) + Google Sign-In/Sign-Out + Jetpack Compose UI
 
 ---
 
-## 🖼️ Phoenix Showcase (Real Screens)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VaibhavRawath/phoenix-ai-course-app/main/screens/home.jpeg" width="200" />
-  <img src="https://raw.githubusercontent.com/VaibhavRawath/phoenix-ai-course-app/main/screens/chatscreen.jpeg" width="200" />
-  <img src="https://raw.githubusercontent.com/VaibhavRawath/phoenix-ai-course-app/main/screens/new%20chat.jpeg" width="200" />
-  <img src="https://raw.githubusercontent.com/VaibhavRawath/phoenix-ai-course-app/main/screens/settings.jpeg" width="200" />
-</p>
-
 ---
 
 ## 🧠 What I’m Into
